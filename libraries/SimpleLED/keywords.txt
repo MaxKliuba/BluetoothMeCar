@@ -1,0 +1,33 @@
+##########################################
+# Syntax Coloring Map For SimpleLed
+##########################################
+
+##########################################
+# Datatypes (KEYWORD1)
+##########################################
+
+SimpleLED	KEYWORD1
+LedState	KEYWORD1
+
+##########################################
+# Methods and Functions (KEYWORD2)
+##########################################
+
+tick	KEYWORD2
+on	KEYWORD2
+off	KEYWORD2
+set	KEYWORD2
+switchLed	KEYWORD2
+startBlinking	KEYWORD2
+getState	KEYWORD2
+
+##########################################
+# Constants (LITERAL1)
+##########################################
+
+INFINITE_BLINK_COUNT	LITERAL1
+LED_STATE_OFF	LITERAL1
+LED_STATE_ON	LITERAL1
+LED_STATE_BLINK	LITERAL1
+
+##########################################

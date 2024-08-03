@@ -1,0 +1,54 @@
+##########################################
+# Syntax Coloring Map For BluetoothMe
+##########################################
+
+##########################################
+# Datatypes (KEYWORD1)
+##########################################
+
+BluetoothMe	KEYWORD1
+BluetoothMeState	KEYWORD1
+
+IBluetoothAdapter	KEYWORD1
+
+SerialAdapter	KEYWORD1
+AsyncSerialAdapter	KEYWORD1
+
+HardwareSerialAdapter	KEYWORD1
+SoftwareSerialAdapter	KEYWORD1
+
+AsyncHardwareSerialAdapter	KEYWORD1
+AsyncSoftwareSerialAdapter	KEYWORD1
+
+##########################################
+# Methods and Functions (KEYWORD2)
+##########################################
+
+onReceive	KEYWORD2
+listen	KEYWORD2
+send	KEYWORD2
+exec	KEYWORD2
+
+check	KEYWORD2
+getTag	KEYWORD2
+getValue	KEYWORD2
+setValue	KEYWORD2
+
+tag	KEYWORD2
+value	KEYWORD2
+state	KEYWORD2
+
+readUntil	KEYWORD2
+write	KEYWORD2
+
+##########################################
+# Constants (LITERAL1)
+##########################################
+
+TAG_TERMINATOR	LITERAL1
+MESSAGE_TERMINATOR	LITERAL1
+BLUETOOTH_RX	LITERAL1
+BLUETOOTH_TX	LITERAL1
+GET_STATE_TAG	LITERAL1
+
+##########################################
